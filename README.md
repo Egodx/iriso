@@ -43,7 +43,7 @@ Yes you can. Both licenses allow you to do this.
 ## Roadmap
 * "Repeat last description" button
 * Haptic feedback
-* Ask for QR code with setting on the first run (0-click setup)
+* Ask for QR code with settings on the first run (0-click setup)
 
 ## License
 MIT. See [MIT.md](./MIT.md)
